@@ -1,0 +1,39 @@
+{
+    "programs":[ 
+         {
+           "name":"MAHAds - Sample", 
+           "desc":"MAHAds android advertisement library for your own apps.", 
+           "uri":"com.mobapphome.mahads.sample",  
+           "img":"../imgs/mah_ads_sample_icon.png", 
+           "release_date":"05/11/2016",
+           "update_date":"05/11/2016"
+         }
+         ,
+         {
+           "name":"MAHAndroidUpdater - Sample", 
+           "desc":"MAHAndroidUpdater - MobAppHome android update helper library.", 
+           "uri":"com.mobapphome.mahandroidupdater.sample",  
+           "img":"../imgs/mah_android_updater_sample_icon.png", 
+           "release_date":"05/11/2016",
+           "update_date":"22/11/2016"
+         }
+         ,
+         {
+           "name":"MAHEncryptorLib - Sample", 
+           "desc":"MAHEnchryptorLib android sample application.", 
+           "uri":"com.mobapphome.mahencryptorlib",  
+           "img":"../imgs/mah_encryptor_lib_sample_icon.png", 
+           "release_date":"05/11/2016",
+           "update_date":"05/11/2016"
+         }         
+         ,
+         {
+           "name":"Test3", 
+           "desc":"Test", 
+           "uri":"com.mobapphome.mahencryptorlib1",  
+           "img":"https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/millionaire_az.png", 
+           "release_date":"22/11/2016",
+           "update_date":"20/11/2016"
+         }
+    ]
+}
