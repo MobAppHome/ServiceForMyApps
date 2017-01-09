@@ -1,9 +1,9 @@
 {
     "is_run_mode":"true",
-    "name":"Avto Nişanlar",
+    "name":"Yol nişanları",
     "uri_current":"com.mobapphome.avtonishanlar",
-    "version_code_current":"9",
-    "version_code_min":"9",
+    "version_code_current”:”10”,
+    "version_code_min”:”10”,
     "update_info":"Yeniləndi",
     "update_date":"05/01/2017"
 }
