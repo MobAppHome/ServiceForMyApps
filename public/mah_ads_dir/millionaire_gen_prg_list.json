@@ -25,6 +25,14 @@
          }
          ,
          {
+           "name":"Millionär - Deutsche", 
+           "desc":"Intellektuelle, Quiz-Spiel in Deutsche", 
+           "uri":"com.mobapphome.millionaire.ge",  
+           "img":"imgs/millionaire_de.png", 
+           "release_date":"03/03/2017"
+         }
+         ,
+         {
           "name":"Milyonçu", 
           "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.", 
           "uri":"com.mobapphome.milyoncu",  
