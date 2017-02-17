@@ -2,8 +2,8 @@
     "is_run_mode":"true",
     "name":"MAHAndroidUpdaterSample",
     "uri_current":"com.mobapphome.mahandroidupdater.sample",
-    "version_code_current":"3",
-    "version_code_min":"2",
+    "version_code_current":"10",
+    "version_code_min":"9",
     "update_info":"Bugs fixed",
     "update_date":"22/12/2016"
 }
