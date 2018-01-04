@@ -5,7 +5,8 @@
            "desc":"Интеллектуальная игра Миллионер.", 
            "uri":"com.mobapphome.millionaire.ru",  
            "img":"imgs/millionaire_ru.png", 
-           "release_date":"05/12/2014"
+           "release_date":"05/12/2014",
+           "update_date":"31/12/2018"
          }
          ,
          {
@@ -29,7 +30,8 @@
            "desc":"Intellektuelle, Quiz-Spiel in Deutsche", 
            "uri":"com.mobapphome.millionaire.ge",  
            "img":"imgs/millionaire_de.png", 
-           "release_date":"31/12/2017"
+           "release_date":"31/12/2017",
+           "update_date":"31/12/2018"
          }
          ,
          {

@@ -10,6 +10,15 @@
          }
          ,
          {
+           "name":"Миллионер - на Pусском", 
+           "desc":"Интеллектуальная игра Миллионер.", 
+           "uri":"com.mobapphome.millionaire.ru",  
+           "img":"imgs/millionaire_ru.png", 
+           "release_date":"05/12/2014",
+           "update_date":"31/12/2018"
+         }
+         ,
+         {
           "name":"Məzənnə", 
           "desc":"Azərbaycan bankları üçün valyuta çeviricisi və məzənnələr.", 
           "uri":"com.mobapphome.currency",  
@@ -36,15 +45,6 @@
           "update_date":"05/12/2014"
          }
    	     ,
-         {
-           "name":"Миллионер - на Pусском", 
-           "desc":"Интеллектуальная игра Миллионер.", 
-           "uri":"com.mobapphome.millionaire.ru",  
-           "img":"imgs/millionaire_ru.png", 
-           "release_date":"05/12/2014",
-           "update_date":"05/12/2014"
-         }
-         ,
          {
            "name":"Milyoner - Türkçe", 
            "desc":"Milyoner Türkce bilgi yarışması", 
