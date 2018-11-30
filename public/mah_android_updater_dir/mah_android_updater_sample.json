@@ -1,6 +1,6 @@
 {
     "is_run_mode":"true",
-    "name":"MAHAndroidUpdaterSample",
+    "name":"AndroidAppUpdaterSample",
     "uri_current":"com.mobapphome.mahandroidupdater.sample",
     "version_code_current":"10",
     "version_code_min":"9",

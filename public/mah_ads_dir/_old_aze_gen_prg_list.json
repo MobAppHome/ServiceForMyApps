@@ -1,0 +1,66 @@
+{
+    "programs":[ 
+         {
+          "name":"Milyonçu", 
+          "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.", 
+          "uri":"com.mobapphome.milyoncu",  
+          "img":"imgs/millionaire_az.png", 
+          "release_date":"10/10/2014",
+          "update_date":"17/12/2017"
+         }
+         ,
+         {
+           "name":"Миллионер - на Pусском", 
+           "desc":"Интеллектуальная игра Миллионер.", 
+           "uri":"com.mobapphome.millionaire.ru",  
+           "img":"imgs/millionaire_ru.png", 
+           "release_date":"05/12/2014",
+           "update_date":"31/12/2018"
+         }
+         ,
+         {
+          "name":"Məzənnə", 
+          "desc":"Azərbaycan bankları üçün valyuta çeviricisi və məzənnələr.", 
+          "uri":"com.mobapphome.currency",  
+          "img":"imgs/mezenne.png", 
+          "release_date":"10/10/2014",
+          "update_date":"05/12/2014"
+         }
+         ,
+         {
+          "name":"Yol nişanları", 
+          "desc":"Yol nişanlarının kataloqu.", 
+          "uri":"com.mobapphome.avtonishanlar",  
+          "img":"imgs/avto_nishanlar.png", 
+          "release_date":"10/10/2014",
+          "update_date":"05/12/2014"
+         }
+         ,
+         {
+          "name":"Ləzzət", 
+          "desc":"Azərbaycanın ləzzətli yemək reseptləri.", 
+          "uri":"com.mobapphome.lezzet",  
+          "img":"imgs/lezzet.png", 
+          "release_date":"10/10/2014",
+          "update_date":"05/12/2014"
+         }
+   	     ,
+         {
+           "name":"Milyoner - Türkçe", 
+           "desc":"Milyoner Türkce bilgi yarışması", 
+           "uri":"com.mobapphome.millionaire.tr",  
+           "img":"imgs/millionaire_tr.png", 
+           "release_date":"05/12/2014",
+           "update_date":"05/12/2014"
+         }
+         ,
+         {
+           "name":"Millionaire - in English", 
+           "desc":"Millionaire intellectual game in English.", 
+           "uri":"com.mobapphome.millionaire.en",  
+           "img":"imgs/millionaire_en.png", 
+           "release_date":"05/12/2014",
+           "update_date":"05/12/2014"
+         }
+    ]
+}

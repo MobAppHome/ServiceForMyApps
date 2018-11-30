@@ -1,8 +1,8 @@
 {
     "programs":[ 
          {
-           "name":"MAHAds - Sample", 
-           "desc":"MAHAds - MobAppHome advertisment library.", 
+           "name":"AppCrossPromoter - Sample", 
+           "desc":"AppCrossPromoter - Android advertisment library.", 
            "uri":"com.mobapphome.mahads.sample",  
            "img":"imgs/mah_ads_sample_icon.png", 
            "release_date":"05/11/2016",
@@ -10,8 +10,8 @@
          }
          ,
         {
-           "name":"MAHAndroidUpdater - Sample", 
-           "desc":"MAHAndroidUpdater - MobAppHome android update helper library.", 
+           "name":"AndroidAppUpdater - Sample", 
+           "desc":"AndroidAppUpdater - Android update helper library.", 
            "uri":"com.mobapphome.mahandroidupdater.sample",  
            "img":"imgs/mah_android_updater_sample_icon.png", 
            "release_date":"05/11/2016",
@@ -19,52 +19,39 @@
          }
          ,
          {
-           "name":"MAHEncryptorLib - Sample", 
-           "desc":"MAHEnchryptorLib android sample application.", 
+           "name":"SimpleEncryptorLib - Sample", 
+           "desc":"An Android encryption library.", 
            "uri":"com.mobapphome.mahencryptorlib",  
            "img":"imgs/mah_encryptor_lib_sample_icon.png", 
            "release_date":"05/11/2016",
            "update_date":"05/11/2016"
-         }  
-         ,
-        {
-           "name":"Миллионер - на Pусском", 
-           "desc":"Интеллектуальная игра Миллионер.", 
-           "uri":"com.mobapphome.millionaire.ru",  
-           "img":"imgs/millionaire_ru.png", 
-           "release_date":"05/12/2014"
          }
          ,
          {
-           "name":"Millionaire - in English", 
-           "desc":"Millionaire intellectual game in English.", 
-           "uri":"com.mobapphome.millionaire.en",  
-           "img":"imgs/millionaire_en.png", 
-           "release_date":"05/12/2014"
+          "name":"Məzənnə", 
+          "desc":"Azərbaycan bankları üçün valyuta çeviricisi və məzənnələr.", 
+          "uri":"com.mobapphome.currency",  
+          "img":"imgs/mezenne.png", 
+          "release_date":"10/10/2014",
+          "update_date":"05/12/2014"
          }
          ,
          {
-           "name":"Millionär - Deutsche", 
-           "desc":"Intellektuelle, Quiz-Spiel in Deutsche", 
-           "uri":"com.mobapphome.millionaire.ge",  
-           "img":"imgs/millionaire_de.png", 
-           "release_date":"03/03/2017"
+          "name":"Yol nişanları", 
+          "desc":"Yol nişanlarının kataloqu.", 
+          "uri":"com.mobapphome.avtonishanlar",  
+          "img":"imgs/avto_nishanlar.png", 
+          "release_date":"10/10/2014",
+          "update_date":"05/12/2014"
          }
          ,
          {
-           "name":"Milyoner - Türkçe", 
-           "desc":"Milyoner Türkce bilgi yarışması", 
-           "uri":"com.mobapphome.millionaire.tr",  
-           "img":"imgs/millionaire_tr.png", 
-           "release_date":"05/12/2014"
-         }
-         ,
-         {
-          "name":"Milyonçu", 
-          "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.", 
-          "uri":"com.mobapphome.milyoncu",  
-          "img":"imgs/millionaire_az.png", 
-          "release_date":"10/10/2014"
-         }       
+          "name":"Ləzzət", 
+          "desc":"Azərbaycanın ləzzətli yemək reseptləri.", 
+          "uri":"com.mobapphome.lezzet",  
+          "img":"imgs/lezzet.png", 
+          "release_date":"10/10/2014",
+          "update_date":"05/12/2014"
+         }        
     ]
 }
