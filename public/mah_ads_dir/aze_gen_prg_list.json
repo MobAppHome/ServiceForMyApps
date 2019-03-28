@@ -1,5 +1,14 @@
 {
     "programs":[
+        {
+         "name":"Milyonçu 2019 - Yeni bilik oyunu",
+         "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.",
+         "uri":"oyun.test.sualcavab.iq.millionaire.azerbaijani.milyoncu.azerbaycanca",
+         "img":"imgs/millionaire_az_2.png",
+         "release_date":"01/04/2020",
+         "update_date":"01/04/2020"
+        }
+        ,
          {
           "name":"Məzənnə",
           "desc":"Azərbaycan bankları üçün valyuta çeviricisi və məzənnələr.",
