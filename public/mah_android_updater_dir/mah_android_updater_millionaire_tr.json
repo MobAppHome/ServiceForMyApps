@@ -1,9 +1,10 @@
 {
     "is_run_mode":"true",
     "name":"Milyoner - Türkçe",
-    "uri_current":"com.mobapphome.millionaire.tr",
-    "version_code_current":"4",
-    "version_code_min":"4",
-    "update_info":"Updated",
-    "update_date":"22/12/2016"
+    "uri_current":"oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
+    "version_code_current":"3",
+    "version_code_min":"3",
+    "update_info":"Bu sürüm artık desteklenmiyor ve düzgün çalışmıyor.
+                    Yeni tasarıma sahip resmi bir sürümü yeni bir adreste kullanmanızı öneririz.",
+    "update_date":"28/03/2019"
 }
