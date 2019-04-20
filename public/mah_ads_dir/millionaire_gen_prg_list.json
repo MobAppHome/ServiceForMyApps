@@ -5,8 +5,8 @@
            "desc":"Интеллектуальная игра Миллионер.",
            "uri":"iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
            "img":"imgs/millionaire_ru_2.png",
-           "release_date":"01/04/2017",
-           "update_date":"01/04/2017"
+           "release_date":"01/04/2020",
+           "update_date":"01/04/2020"
          }
          ,
          {
@@ -14,8 +14,8 @@
            "desc":"Millionaire intellectual game in English.",
            "uri":"game.quiz.intellectual.iq.millionaire.english",
            "img":"imgs/millionaire_en_2.png",
-           "release_date":"01/04/2017",
-           "update_date":"01/04/2017"
+           "release_date":"01/04/2020",
+           "update_date":"01/04/2020"
          }
          ,
          {
@@ -23,8 +23,8 @@
            "desc":"Milyoner Türkce bilgi yarışması",
            "uri":"oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
            "img":"imgs/millionaire_tr_2.png",
-           "release_date":"01/04/2017",
-           "update_date":"01/04/2017"
+           "release_date":"01/04/2020",
+           "update_date":"01/04/2020"
          }
          ,
          {
@@ -32,8 +32,8 @@
            "desc":"Intellektuelle, Quiz-Spiel in Deutsche",
            "uri":"spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
            "img":"imgs/millionaire_de_2.png",
-           "release_date":"01/04/2017",
-           "update_date":"01/04/2017"
+           "release_date":"01/04/2020",
+           "update_date":"01/04/2020"
          }
          ,
          {
@@ -41,8 +41,8 @@
           "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.",
           "uri":"oyun.test.sualcavab.iq.millionaire.azerbaijani.milyoncu.azerbaycanca",
           "img":"imgs/millionaire_az_2.png",
-          "release_date":"01/04/2017",
-          "update_date":"01/04/2017"
+          "release_date":"01/04/2020",
+          "update_date":"01/04/2020"
          }
     ]
 }
