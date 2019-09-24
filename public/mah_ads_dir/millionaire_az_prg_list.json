@@ -1,10 +1,10 @@
 {
     "programs":[
         {
-          "name":"Миллионер - на Pусском",
+          "name":"Новый Миллионер 2019 - на Pусском",
           "desc":"Интеллектуальная игра Миллионер.",
           "uri":"iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
-          "img":"imgs/millionaire_ru_2.png",
+          "img":"imgs/millionaire_ru_3.png",
           "release_date":"01/04/2020",
           "update_date":"01/04/2020"
         }

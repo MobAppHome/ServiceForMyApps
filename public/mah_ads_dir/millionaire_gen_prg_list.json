@@ -1,46 +1,46 @@
 {
     "programs":[
          {
-           "name":"Миллионер - на Pусском",
+           "name":"Новый Миллионер 2019 - на Pусском",
            "desc":"Интеллектуальная игра Миллионер.",
            "uri":"iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
-           "img":"imgs/millionaire_ru_2.png",
+           "img":"imgs/millionaire_ru_3.png",
            "release_date":"01/04/2020",
            "update_date":"01/04/2020"
          }
          ,
          {
-           "name":"Millionaire - in English",
+           "name":"New Millionaire 2019 - General Knowledge Quiz",
            "desc":"Millionaire intellectual game in English.",
            "uri":"game.quiz.intellectual.iq.millionaire.english",
-           "img":"imgs/millionaire_en_2.png",
+           "img":"imgs/millionaire_en_3.png",
            "release_date":"01/04/2020",
            "update_date":"01/04/2020"
          }
          ,
          {
-           "name":"Milyoner - Türkçe",
+           "name":"Yeni Milyoner 2019 - Türkçe",
            "desc":"Milyoner Türkce bilgi yarışması",
            "uri":"oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-           "img":"imgs/millionaire_tr_2.png",
+           "img":"imgs/millionaire_tr_3.png",
            "release_date":"01/04/2020",
            "update_date":"01/04/2020"
          }
          ,
          {
-           "name":"Millionär - Deutsche",
+           "name":"Neu Millionär 2019 - Deutsche",
            "desc":"Intellektuelle, Quiz-Spiel in Deutsche",
            "uri":"spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
-           "img":"imgs/millionaire_de_2.png",
+           "img":"imgs/millionaire_de_3.png",
            "release_date":"01/04/2020",
            "update_date":"01/04/2020"
          }
          ,
          {
-          "name":"Milyonçu - Yeni bilik oyunu",
+          "name":"Yeni Milyonçu 2019 - Bilik yarışması",
           "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.",
           "uri":"oyun.test.sualcavab.iq.millionaire.azerbaijani.milyoncu.azerbaycanca",
-          "img":"imgs/millionaire_az_2.png",
+          "img":"imgs/millionaire_az_3.png",
           "release_date":"01/04/2020",
           "update_date":"01/04/2020"
          }
