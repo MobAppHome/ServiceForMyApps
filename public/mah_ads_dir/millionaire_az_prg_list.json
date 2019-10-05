@@ -64,32 +64,5 @@
           "release_date":"10/10/2014",
           "update_date":"05/12/2014"
          }
-         ,
-         {
-          "name":"Yol nişanları",
-          "desc":"Yol nişanlarının kataloqu.",
-          "uri":"com.mobapphome.avtonishanlar",
-          "img":"imgs/avto_nishanlar.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
-         ,
-         {
-          "name":"Ləzzət",
-          "desc":"Azərbaycanın ləzzətli yemək reseptləri.",
-          "uri":"com.mobapphome.lezzet",
-          "img":"imgs/lezzet.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
-         ,
-         {
-          "name":"DYP Qanunlar və Cərimələr",
-          "desc":"DYP Qanunlar və Cərimələr",
-          "uri":"com.mobapphome.avtolowpenal",
-          "img":"imgs/dyp_qanunlar_ve_cerimeler.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
     ]
 }
