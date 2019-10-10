@@ -13,7 +13,7 @@
             "name": "Sürücü Milyonçu 2019",
             "desc": "Sürücülük imtahanına düşən suallardan ibarət Milyonçu oyunu.",
             "uri": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.suruculuk.imtahani",
-            "img": "imgs/millionaire_az_driver_3.png",
+            "img": "imgs/millionaire_az_driver_192.png",
             "release_date": "01/04/2020",
             "update_date": "01/04/2020"
         }
@@ -22,7 +22,7 @@
             "name": "Dini Milyonçu 2019",
             "desc": "İslam dini haqqında suallardan ibarət Milyonçu oyunu.",
             "uri": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.islam",
-            "img": "imgs/millionaire_az_islam_3.png",
+            "img": "imgs/millionaire_az_islam_192.png",
             "release_date": "01/04/2020",
             "update_date": "01/04/2020"
         }
