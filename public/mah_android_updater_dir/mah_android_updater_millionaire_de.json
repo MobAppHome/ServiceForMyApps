@@ -3,8 +3,7 @@
     "name":"Millionär - Deutsche",
     "uri_current":"spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
     "version_code_current":"3",
-    "version_code_min":"3",
-    "update_info":"Diese Version wird nicht mehr unterstützt und funktioniert nicht richtig.
-                    Wir empfehlen, eine offizielle Version mit dem neuen Design in einer neuen Adresse zu verwenden.",
+    "version_code_min":"100",
+    "update_info":"Diese Version wird nicht mehr unterstützt und funktioniert nicht richtig. Wir empfehlen, eine offizielle Version mit dem neuen Design in einer neuen Adresse zu verwenden.",
     "update_date":"28/03/2019"
 }

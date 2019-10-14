@@ -3,8 +3,7 @@
     "name":"Millionaire - in English",
     "uri_current":"game.quiz.intellectual.iq.millionaire.english",
     "version_code_current":"4",
-    "version_code_min":"4",
-    "update_info":"This version is not supported anymore and doesn't work properly.
-                    We recommend using an official version with the new design in a new address.",
+    "version_code_min":"100",
+    "update_info":"This version is not supported anymore and doesn't work properly. We recommend using an official version with the new design in a new address.",
     "update_date":"28/03/2019"
 }
