@@ -1,48 +1,53 @@
 {
-    "programs":[
-         {
-           "name":"Новый Миллионер 2019 - на Pусском",
-           "desc":"Интеллектуальная игра Миллионер.",
-           "uri":"iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
-           "img":"imgs/millionaire_ru_3.png",
-           "release_date":"01/04/2020",
-           "update_date":"01/04/2020"
-         }
-         ,
-         {
-           "name":"New Millionaire 2019 - General Knowledge Quiz",
-           "desc":"Millionaire intellectual game in English.",
-           "uri":"game.quiz.intellectual.iq.millionaire.english",
-           "img":"imgs/millionaire_en_3.png",
-           "release_date":"01/04/2020",
-           "update_date":"01/04/2020"
-         }
-         ,
-         {
-           "name":"Yeni Milyoner 2019 - Türkçe",
-           "desc":"Milyoner Türkce bilgi yarışması",
-           "uri":"oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-           "img":"imgs/millionaire_tr_192_2.png",
-           "release_date":"01/04/2020",
-           "update_date":"01/04/2020"
-         }
-         ,
-         {
-           "name":"Neu Millionär 2019 - Deutsche",
-           "desc":"Intellektuelle, Quiz-Spiel in Deutsche",
-           "uri":"spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
-           "img":"imgs/millionaire_de_3.png",
-           "release_date":"01/04/2020",
-           "update_date":"01/04/2020"
-         }
-         ,
-         {
-          "name":"Yeni Milyonçu 2019 - Bilik yarışması",
-          "desc":"Milyonçu oyunu Azərbaycan dilində bilik oyunudur.",
-          "uri":"oyun.test.sualcavab.iq.millionaire.azerbaijani.milyoncu.azerbaycanca",
-          "img":"imgs/millionaire_az_3.png",
-          "release_date":"01/04/2020",
-          "update_date":"01/04/2020"
-         }
-    ]
+  "programs": [
+    {
+      "name": "New Millionaire - Quiz",
+      "desc": "Millionaire intellectual game in English.",
+      "uri": "game.quiz.intellectual.iq.millionaire.english",
+      "img": "imgs/millionaire_en_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Islamic Quiz Game 2020",
+      "desc": "Quiz game with Islamic questions.",
+      "uri": "en.millionaire.IslamMuslimQuestions.intellectualquizgame",
+      "img": "imgs/millionaire_en_islam_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Bible Quiz Game 2020",
+      "desc": "Quiz game with questions from the Bible.",
+      "uri": "en.millionaire.BibleQuestions.intellectualquizgame",
+      "img": "imgs/millionaire_en_bible_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Новый Миллионер 2019 - на Pусском",
+      "desc": "Интеллектуальная игра Миллионер.",
+      "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
+      "img": "imgs/millionaire_ru_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+
+    {
+      "name": "Yeni Milyoner 2019 - Türkçe",
+      "desc": "Milyoner Türkce bilgi yarışması",
+      "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
+      "img": "imgs/millionaire_tr_192_2.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Neu Millionär 2019 - Deutsche",
+      "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
+      "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
+      "img": "imgs/millionaire_de_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    }
+  ]
 }
