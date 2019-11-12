@@ -1,102 +1,92 @@
 {
-    "programs":[
-        {
-         "name":"Yeni Milyonçu 2019 - Bilik yarışması",
-         "desc":"Milyonçu oyunu Azərbaycan dilində bilik yarışmasıdır.",
-         "uri":"oyun.test.sualcavab.iq.millionaire.azerbaijani.milyoncu.azerbaycanca",
-         "img":"imgs/millionaire_az_3.png",
-         "release_date":"01/04/2020",
-         "update_date":"01/04/2020"
-        }
-        ,
-        {
-            "name": "Sürücü Milyonçu 2019",
-            "desc": "Sürücülük imtahanına düşən suallardan ibarət Milyonçu oyunu.",
-            "uri": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.suruculuk.imtahani",
-            "img": "imgs/millionaire_az_driver_192.png",
-            "release_date": "01/04/2020",
-            "update_date": "01/04/2020"
-        }
-        ,
-        {
-            "name": "Dini Milyonçu 2019",
-            "desc": "İslam dini haqqında suallardan ibarət Milyonçu oyunu.",
-            "uri": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.islam",
-            "img": "imgs/millionaire_az_islam_192.png",
-            "release_date": "01/04/2020",
-            "update_date": "01/04/2020"
-        }
-        ,
-        {
-            "name": "Milyonçu - Azərbaycan Coğrafiyası",
-            "desc": "Azərbaycan Coğrafiyası  - Bilik yarışması, Sual Cavab, Söz Oyunu, Testlər.",
-            "uri": "milyoncu.sualcavab_soz_oyunu.azerbaycan_cografiyasi_suallar",
-            "img": "imgs/millionaire_az_geography_192.png",
-            "release_date": "01/04/2020",
-            "update_date": "01/04/2020"
-        }
-        ,
-        {
-            "name": "Milyonçu - Azərbaycan Dili, Ədəbiyyatı",
-            "desc": "Azərbaycan Dili və Ədəbiyyatı haqqında suallardan ibarət Milyonçu oyunu.",
-            "uri": "milyoncu.sualcavab_soz_oyunu.azerbaycan_dil_edebiyyat_testler",
-            "img": "imgs/millionaire_az_lang_literature_azerb_192.png",
-            "release_date": "01/04/2020",
-            "update_date": "01/04/2020"
-        }
-        ,
-        {
-            "name": "Milyonçu - Azərbaycan Tarixi",
-            "desc": "Azərbaycan Tarixi haqqında suallardan ibarət Milyonçu oyunu.",
-            "uri": "milyoncu.sualcavab_soz_oyunu.azerbaycan_tarixi_suallar",
-            "img": "imgs/millionaire_az_history_azerb_192.png",
-            "release_date": "01/04/2020",
-            "update_date": "01/04/2020"
-        }
-        ,
-        {
-            "name": "Milyonçu - Dünya Tarixi",
-            "desc": "Dünya Tarixi haqqında suallardan ibarət Milyonçu oyunu.",
-            "uri": "milyoncu.sualcavab_soz_oyunu.dunya_tarixi_suallar",
-            "img": "imgs/millionaire_az_history_world_192.png",
-            "release_date": "01/04/2020",
-            "update_date": "01/04/2020"
-        }
-        ,
-        {
-          "name":"Məzənnə",
-          "desc":"Azərbaycan bankları üçün valyuta çeviricisi və məzənnələr.",
-          "uri":"com.mobapphome.currency",
-          "img":"imgs/mezenne.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
-         ,
-         {
-          "name":"Yol nişanları",
-          "desc":"Yol nişanlarının kataloqu.",
-          "uri":"com.mobapphome.avtonishanlar",
-          "img":"imgs/avto_nishanlar.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
-         ,
-         {
-          "name":"Ləzzət",
-          "desc":"Azərbaycanın ləzzətli yemək reseptləri.",
-          "uri":"com.mobapphome.lezzet",
-          "img":"imgs/lezzet.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
-         ,
-         {
-          "name":"DYP Qanunlar və Cərimələr",
-          "desc":"DYP Qanunlar və Cərimələr",
-          "uri":"com.mobapphome.avtolowpenal",
-          "img":"imgs/dyp_qanunlar_ve_cerimeler.png",
-          "release_date":"10/10/2014",
-          "update_date":"05/12/2014"
-         }
-    ]
+  "programs": [
+    {
+      "name": "Yeni Milyonçu 2019 - Bilik yarışması",
+      "desc": "Milyonçu oyunu Azərbaycan dilində bilik yarışmasıdır.",
+      "uri": "oyun.test.sualcavab.iq.millionaire.azerbaijani.milyoncu.azerbaycanca",
+      "img": "imgs/millionaire_az_3.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Sürücü Milyonçu 2019",
+      "desc": "Sürücülük imtahanına düşən suallardan ibarət Milyonçu oyunu.",
+      "uri": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.suruculuk.imtahani",
+      "img": "imgs/millionaire_az_driver_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Dini Milyonçu 2019",
+      "desc": "İslam dini haqqında suallardan ibarət Milyonçu oyunu.",
+      "uri": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.islam",
+      "img": "imgs/millionaire_az_islam_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Milyonçu - Azərbaycan Coğrafiyası",
+      "desc": "Azərbaycan Coğrafiyası  - Bilik yarışması, Sual Cavab, Söz Oyunu, Testlər.",
+      "uri": "milyoncu.sualcavab_soz_oyunu.azerbaycan_cografiyasi_suallar",
+      "img": "imgs/millionaire_az_geography_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Milyonçu - Azərbaycan Dili, Ədəbiyyatı",
+      "desc": "Azərbaycan Dili və Ədəbiyyatı haqqında suallardan ibarət Milyonçu oyunu.",
+      "uri": "milyoncu.sualcavab_soz_oyunu.azerbaycan_dil_edebiyyat_testler",
+      "img": "imgs/millionaire_az_lang_literature_azerb_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Milyonçu - Azərbaycan Tarixi",
+      "desc": "Azərbaycan Tarixi haqqında suallardan ibarət Milyonçu oyunu.",
+      "uri": "milyoncu.sualcavab_soz_oyunu.azerbaycan_tarixi_suallar",
+      "img": "imgs/millionaire_az_history_azerb_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Milyonçu - Dünya Tarixi",
+      "desc": "Dünya Tarixi haqqında suallardan ibarət Milyonçu oyunu.",
+      "uri": "milyoncu.sualcavab_soz_oyunu.dunya_tarixi_suallar",
+      "img": "imgs/millionaire_az_history_world_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Məzənnə",
+      "desc": "Azərbaycan bankları üçün valyuta çeviricisi və məzənnələr.",
+      "uri": "com.mobapphome.currency",
+      "img": "imgs/mezenne.png",
+      "release_date": "10/10/2014",
+      "update_date": "05/12/2014"
+    },
+    {
+      "name": "Yol nişanları",
+      "desc": "Yol nişanlarının kataloqu.",
+      "uri": "com.mobapphome.avtonishanlar",
+      "img": "imgs/avto_nishanlar.png",
+      "release_date": "10/10/2014",
+      "update_date": "05/12/2014"
+    },
+    {
+      "name": "Ləzzət",
+      "desc": "Azərbaycanın ləzzətli yemək reseptləri.",
+      "uri": "com.mobapphome.lezzet",
+      "img": "imgs/lezzet.png",
+      "release_date": "10/10/2014",
+      "update_date": "05/12/2014"
+    },
+    {
+      "name": "DYP Qanunlar və Cərimələr",
+      "desc": "DYP Qanunlar və Cərimələr",
+      "uri": "com.mobapphome.avtolowpenal",
+      "img": "imgs/dyp_qanunlar_ve_cerimeler.png",
+      "release_date": "10/10/2014",
+      "update_date": "05/12/2014"
+    }
+  ]
 }

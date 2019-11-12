@@ -39,6 +39,14 @@
       "img": "imgs/millionaire_de_3.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
+    },
+    {
+      "name": "Millionaire Quiz en Français",
+      "desc": "Jeu intellectuel Millionaire Quiz en français.",
+      "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
+      "img": "imgs/millionaire_fr_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     }
   ]
 }

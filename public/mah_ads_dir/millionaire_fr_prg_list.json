@@ -1,6 +1,22 @@
 {
   "programs": [
     {
+      "name": "Millionaire Quiz en Français",
+      "desc": "Jeu intellectuel Millionaire Quiz en français.",
+      "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
+      "img": "imgs/millionaire_fr_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    }, 
+    {
+      "name": "Quiz Islamique en Français",
+      "desc": "Millionaire Quiz en français avec des questions Islamiques.",
+      "uri": "fr.millions.QuestionsIslamiques.JeudeQuizIntellectuel",
+      "img": "imgs/millionaire_fr_islam_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },   
+    {
       "name": "New Millionaire - Quiz",
       "desc": "Millionaire intellectual game in English.",
       "uri": "game.quiz.intellectual.iq.millionaire.english",
@@ -13,8 +29,8 @@
       "desc": "Quiz game with Islamic questions.",
       "uri": "en.millionaire.IslamMuslimQuestions.intellectualquizgame",
       "img": "imgs/millionaire_en_islam_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     },
     {
       "name": "Bible Quiz Game 2020",
@@ -25,14 +41,6 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Millionaire Quiz en Français",
-      "desc": "Jeu intellectuel Millionaire Quiz en français.",
-      "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
-      "img": "imgs/millionaire_fr_192.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
-    },  
-    {
       "name": "Новый Миллионер 2019 - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
@@ -40,6 +48,7 @@
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
+
     {
       "name": "Yeni Milyoner 2019 - Türkçe",
       "desc": "Milyoner Türkce bilgi yarışması",
