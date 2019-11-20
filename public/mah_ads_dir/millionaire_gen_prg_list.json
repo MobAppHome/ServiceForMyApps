@@ -1,20 +1,20 @@
 {
   "programs": [
     {
-      "name": "New Millionaire - Quiz",
+      "name": "New Millionaire - Brain Quiz",
       "desc": "Millionaire intellectual game in English.",
       "uri": "game.quiz.intellectual.iq.millionaire.english",
       "img": "imgs/millionaire_en_3.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
     },
     {
       "name": "Islamic Quiz Game 2020",
       "desc": "Quiz game with Islamic questions.",
       "uri": "en.millionaire.IslamMuslimQuestions.intellectualquizgame",
       "img": "imgs/millionaire_en_islam_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     },
     {
       "name": "Bible Quiz Game 2020",
@@ -29,14 +29,22 @@
       "desc": "Jeu intellectuel Millionaire Quiz en français.",
       "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
       "img": "imgs/millionaire_fr_192.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
-    },  
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
     {
       "name": "Новый Миллионер 2019 - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
       "img": "imgs/millionaire_ru_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Новий Мільйонер - Україна 2020",
+      "desc": "Інтелектуальна гра Мільйонер українською мовою про Україну.",
+      "uri": "uk.millionerom.UkrainskayaViktorina.ktokhochetstat",
+      "img": "imgs/millionaire_uk_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
@@ -53,8 +61,8 @@
       "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
       "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
       "img": "imgs/millionaire_de_3.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
     }
   ]
 }

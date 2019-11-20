@@ -24,7 +24,22 @@
       "release_date": "01/04/2020",
       "update_date": "01/04/2020"
     },
-
+    {
+      "name": "Новий Мільйонер - Україна 2020",
+      "desc": "Інтелектуальна гра Мільйонер українською мовою про Україну.",
+      "uri": "uk.millionerom.UkrainskayaViktorina.ktokhochetstat",
+      "img": "imgs/millionaire_uk_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Мільйонер - Іспит ПДР Україна",
+      "desc": "Гра Мільйонер із запитаннями з іспиту з ПДР Україна.",
+      "uri": "uk.PddEkzamenUkrainskayaViktorina.millionerom",
+      "img": "imgs/millionaire_uk_driver_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
     {
       "name": "Миллионер - Ислам 2020",
       "desc": "Игра Миллионер с вопросами из ислама.",

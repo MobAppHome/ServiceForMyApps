@@ -1,6 +1,22 @@
 {
   "programs": [
     {
+      "name": "Новий Мільйонер - Україна 2020",
+      "desc": "Інтелектуальна гра Мільйонер українською мовою про Україну.",
+      "uri": "uk.millionerom.UkrainskayaViktorina.ktokhochetstat",
+      "img": "imgs/millionaire_uk_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Мільйонер - Іспит ПДР Україна",
+      "desc": "Гра Мільйонер із запитаннями з іспиту з ПДР Україна.",
+      "uri": "uk.PddEkzamenUkrainskayaViktorina.millionerom",
+      "img": "imgs/millionaire_uk_driver_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
       "name": "Новый Миллионер 2019 - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
@@ -21,14 +37,6 @@
       "desc": "Игра Миллионер с вопросами из Библии",
       "uri": "ru.russkiy.ViktorinaBibliyaKristianstvo.iqraintellektualnoymillioner",
       "img": "imgs/millionaire_ru_bible_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
-    },
-    {
-      "name": "Миллионер - Ислам 2020",
-      "desc": "Игра Миллионер с вопросами из ислама.",
-      "uri": "ru.russkiy.ViktorinaIslamVoprosy.iqraintellektualnoymillioner",
-      "img": "imgs/millionaire_ru_islam_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
@@ -53,14 +61,6 @@
       "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
       "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
       "img": "imgs/millionaire_de_3.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
-    },
-    {
-      "name": "Yeni Milyoner 2019 - Türkçe",
-      "desc": "Milyoner Türkce bilgi yarışması",
-      "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-      "img": "imgs/millionaire_tr_192_2.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     }

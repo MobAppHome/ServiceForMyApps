@@ -7,22 +7,22 @@
       "img": "imgs/millionaire_fr_192.png",
       "release_date": "01/04/2020",
       "update_date": "01/04/2020"
-    }, 
+    },
     {
       "name": "Quiz Islamique en Français",
       "desc": "Millionaire Quiz en français avec des questions Islamiques.",
       "uri": "fr.millions.QuestionsIslamiques.JeudeQuizIntellectuel",
       "img": "imgs/millionaire_fr_islam_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
-    },   
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
     {
       "name": "New Millionaire - Quiz",
       "desc": "Millionaire intellectual game in English.",
       "uri": "game.quiz.intellectual.iq.millionaire.english",
       "img": "imgs/millionaire_en_3.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
     },
     {
       "name": "Islamic Quiz Game 2020",
@@ -48,7 +48,6 @@
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
-
     {
       "name": "Yeni Milyoner 2019 - Türkçe",
       "desc": "Milyoner Türkce bilgi yarışması",
@@ -62,8 +61,8 @@
       "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
       "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
       "img": "imgs/millionaire_de_3.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
     }
   ]
 }
