@@ -79,6 +79,14 @@
       "img": "imgs/millionaire_tr_192_2.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
+    },
+    {
+      "name": "Millioner - O'zbekcha 2020",
+      "desc": "O'zbek tilida intellektual o'yin.",
+      "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
+      "img": "imgs/millionaire_uz_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     }
   ]
 }
