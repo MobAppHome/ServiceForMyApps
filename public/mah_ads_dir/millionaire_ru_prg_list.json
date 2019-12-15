@@ -92,7 +92,7 @@
                   "name": "Миллионер - Казахский 2020",
                   "desc": "Викторина Миллионер на Казахском языке.",
                   "uri": "kk.qazaqsha_viktorina.millioner_millionaire",
-                  "img": "imgs/millionaire_кк_192.png",
+                  "img": "imgs/millionaire_kk_192.png",
                   "release_date": "01/04/2019",
                   "update_date": "01/04/2019"
                 },
@@ -100,7 +100,7 @@
                   "name": "Миллионер - Кыргызский 2020",
                   "desc": "Викторина Миллионер на Кыргызском языке.",
                   "uri": "kg.kyrgyzcha_intellektualdikoyun.millioner_millionaire",
-                  "img": "imgs/millionaire_кg_192.png",
+                  "img": "imgs/millionaire_kg_192.png",
                   "release_date": "01/04/2019",
                   "update_date": "01/04/2019"
                 }
