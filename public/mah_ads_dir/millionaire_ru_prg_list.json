@@ -1,10 +1,10 @@
 {
   "programs": [
                 {
-                  "name": "Новый Миллионер 2019 - на Pусском",
+                  "name": "Новый Миллионер 2020 - на Pусском",
                   "desc": "Интеллектуальная игра Миллионер.",
                   "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
-                  "img": "imgs/millionaire_ru_3.png",
+                  "img": "imgs/millionaire_ru_192.png",
                   "release_date": "01/04/2020",
                   "update_date": "01/04/2020"
                 },
@@ -49,34 +49,34 @@
                   "update_date": "01/04/2019"
                 },
                 {
-                  "name": "New Millionaire 2019 - General Knowledge Quiz",
+                  "name": "New Millionaire 2020 - GK Quiz",
                   "desc": "Millionaire intellectual game in English.",
                   "uri": "game.quiz.intellectual.iq.millionaire.english",
-                  "img": "imgs/millionaire_en_3.png",
+                  "img": "imgs/millionaire_en_192.png",
                   "release_date": "01/04/2019",
                   "update_date": "01/04/2019"
                 },
                 {
-                  "name": "Millionaire Quiz en Français",
+                  "name": "Millions Quiz - en Français",
                   "desc": "Jeu intellectuel Millionaire Quiz en français.",
                   "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
-                  "img": "imgs/millionaire_fr_192.png",
+                  "img": "imgs/millionaire_fr_192_2.png",
                   "release_date": "01/04/2020",
                   "update_date": "01/04/2020"
                 },
                 {
-                  "name": "Neu Millionär 2019 - Deutsche",
+                  "name": "Neu Millionär 2020 - Deutsch",
                   "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
                   "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
-                  "img": "imgs/millionaire_de_3.png",
+                  "img": "imgs/millionaire_de_192.png",
                   "release_date": "01/04/2020",
                   "update_date": "01/04/2020"
                 },
                 {
-                  "name": "Yeni Milyoner 2019 - Türkçe",
+                  "name": "Yeni Milyoner 2020 - Türkçe",
                   "desc": "Milyoner Türkce bilgi yarışması",
                   "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-                  "img": "imgs/millionaire_tr_192_2.png",
+                  "img": "imgs/millionaire_tr_192_3.png",
                   "release_date": "01/04/2019",
                   "update_date": "01/04/2019"
                 },

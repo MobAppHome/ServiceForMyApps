@@ -25,10 +25,10 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Новый Миллионер 2019 - на Pусском",
+      "name": "Новый Миллионер 2020 - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
-      "img": "imgs/millionaire_ru_3.png",
+      "img": "imgs/millionaire_ru_192.png",
       "release_date": "01/04/2020",
       "update_date": "01/04/2020"
     },
@@ -49,10 +49,10 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Yeni Milyoner 2019 - Türkçe",
+      "name": "Yeni Milyoner 2020 - Türkçe",
       "desc": "Milyoner Türkce bilgi yarışması",
       "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-      "img": "imgs/millionaire_tr_192_2.png",
+      "img": "imgs/millionaire_tr_192_3.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     }
