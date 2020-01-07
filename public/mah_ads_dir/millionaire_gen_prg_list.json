@@ -9,22 +9,6 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Islamic Quiz Game 2020",
-      "desc": "Quiz game with Islamic questions.",
-      "uri": "en.millionaire.IslamMuslimQuestions.intellectualquizgame",
-      "img": "imgs/millionaire_en_islam_192.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
-    },
-    {
-      "name": "Bible Quiz Game 2020",
-      "desc": "Quiz game with questions from the Bible.",
-      "uri": "en.millionaire.BibleQuestions.intellectualquizgame",
-      "img": "imgs/millionaire_en_bible_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
-    },
-    {
       "name": "Millions Quiz - en Français",
       "desc": "Jeu intellectuel Millionaire Quiz en français.",
       "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
@@ -63,6 +47,22 @@
       "img": "imgs/millionaire_de_192.png",
       "release_date": "01/04/2020",
       "update_date": "01/04/2020"
+    },
+    {
+      "name": "Bible Quiz Game 2020",
+      "desc": "Quiz game with questions from the Bible.",
+      "uri": "en.millionaire.BibleQuestions.intellectualquizgame",
+      "img": "imgs/millionaire_en_bible_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Islamic Quiz Game 2020",
+      "desc": "Quiz game with Islamic questions.",
+      "uri": "en.millionaire.IslamMuslimQuestions.intellectualquizgame",
+      "img": "imgs/millionaire_en_islam_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     }
   ]
 }

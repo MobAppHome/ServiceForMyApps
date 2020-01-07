@@ -1,0 +1,60 @@
+{
+  "programs": [
+    {
+      "name": "Millioner - O'zbekcha 2020",
+      "desc": "O'zbek tilida intellektual o'yin.",
+      "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
+      "img": "imgs/millionaire_uz_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Islomiy Millioner 2020 - O'zbekcha",
+      "desc": "O'zbekcha Islom savollari bilan Millioner viktorinasi.",
+      "uri": "uz.islomdan_savolvajavab.ozbekcha_millioner",
+      "img": "imgs/millionaire_uz_islam_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Millioner - Avto Imtihon 2020",
+      "desc": "Haydovchining Imtihoniga oid savollar bilan Millioner Viktorinasi.",
+      "uri": "uz.AvtoImtihon_YHQ.uzbek_ozbekcha_millioner",
+      "img": "imgs/millionaire_uz_driver_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Новый Миллионер 2020 - на Pусском",
+      "desc": "Интеллектуальная игра Миллионер.",
+      "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
+      "img": "imgs/millionaire_ru_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Миллионер - Водитель 2020",
+      "desc": "Игра Миллионер с вопросами из экзамен ПДД.",
+      "uri": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
+      "img": "imgs/millionaire_ru_driver_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Миллионер - Ислам 2020",
+      "desc": "Игра Миллионер с вопросами из ислама.",
+      "uri": "ru.russkiy.ViktorinaIslamVoprosy.iqraintellektualnoymillioner",
+      "img": "imgs/millionaire_ru_islam_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Yeni Milyoner 2020 - Türkçe",
+      "desc": "Milyoner Türkce bilgi yarışması",
+      "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
+      "img": "imgs/millionaire_tr_192_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    }
+  ]
+}
