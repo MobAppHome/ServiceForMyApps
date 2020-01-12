@@ -1,58 +1,130 @@
 {
   "programs": [
     {
-      "name": "Millioner - O'zbekcha 2020",
-      "desc": "O'zbek tilida intellektual o'yin.",
-      "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
-      "img": "imgs/millionaire_uz_192.png",
+      "name": "Milioneri Shqip 2020: Kuizi Shqiptar",
+      "desc": "Kuizi intelektual në Shqip. Kuizi Shqiptar",
+      "uri": "sq.albanian_quiz_shqip_lojekuizi.milioner_millionaire",
+      "img": "imgs/millionaire_sq_albania_192.png",
+      "release_date": "01/08/2020",
+      "update_date": "01/08/2020"
+    },
+    {
+      "name": "Milioneri Islamik - Shqip 2020",
+      "desc": "Një lojë kuizi me pyetje islamike në Shqip.",
+      "uri": "sq.albanian_shqip_kuizislamik.milioner_millionaire",
+      "img": "imgs/millionaire_sq_islam_192.png",
+      "release_date": "01/08/2020",
+      "update_date": "01/08/2020"
+    },
+    {
+      "name": "New Millionaire 2020 - Quiz Game",
+      "desc": "Millionaire intellectual game in English.",
+      "uri": "game.quiz.intellectual.iq.millionaire.english",
+      "img": "imgs/millionaire_en_192.png",
       "release_date": "01/04/2020",
       "update_date": "01/04/2020"
     },
     {
-      "name": "Islomiy Millioner 2020 - O'zbekcha",
-      "desc": "O'zbekcha Islom savollari bilan Millioner viktorinasi.",
-      "uri": "uz.islomdan_savolvajavab.ozbekcha_millioner",
-      "img": "imgs/millionaire_uz_islam_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
+      "name": "Millions Quiz - Français 2020",
+      "desc": "Jeu intellectuel Millionaire Quiz en Français.",
+      "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
+      "img": "imgs/millionaire_fr_192_2.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     },
     {
-      "name": "Millioner - Avto Imtihon 2020",
-      "desc": "Haydovchining Imtihoniga oid savollar bilan Millioner Viktorinasi.",
-      "uri": "uz.AvtoImtihon_YHQ.uzbek_ozbekcha_millioner",
-      "img": "imgs/millionaire_uz_driver_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
+      "name": "Neu Millionär 2020 - Deutsch",
+      "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
+      "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
+      "img": "imgs/millionaire_de_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
     },
     {
       "name": "Новый Миллионер 2020 - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
       "img": "imgs/millionaire_ru_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
-    },
-    {
-      "name": "Миллионер - Водитель 2020",
-      "desc": "Игра Миллионер с вопросами из экзамен ПДД.",
-      "uri": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
-      "img": "imgs/millionaire_ru_driver_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
     {
-      "name": "Миллионер - Ислам 2020",
-      "desc": "Игра Миллионер с вопросами из ислама.",
-      "uri": "ru.russkiy.ViktorinaIslamVoprosy.iqraintellektualnoymillioner",
-      "img": "imgs/millionaire_ru_islam_192.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
+      "name": "Millonario - Español 2020",
+      "desc": "Juego intelectual en Español. Juego de Palabras.",
+      "uri": "es.spanish_quiz_wordgame.millonario_millionaire",
+      "img": "imgs/millionaire_es_spain_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Milionário - Português 2020",
+      "desc": "Jogo intelectual em Português. Jogo de Perguntas",
+      "uri": "pt.portuguese_quiz_questionario.milionario_millionaire",
+      "img": "imgs/millionaire_pt_portugal_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Miljonairs Nederlands 2020: Quiz",
+      "desc": "Intellectuele quizgame in het Nederlands",
+      "uri": "nl.dutch_netherlands_quiz.miljonair_millionaire",
+      "img": "imgs/millionaire_nl_netherlands_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Milliomos - Magyar 2020: Kvíz",
+      "desc": "Szellemi kvízjáték Magyarul. Kvíz játék.",
+      "uri": "hu.hungariankviz_quiz.milliomos_millionaire",
+      "img": "imgs/millionaire_hu_hungary_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Εκατομμυριούχος Ελληνικά 2020",
+      "desc": "Διανοητικό παιχνίδι κουίζ στην ελληνική γλώσσα",
+      "uri": "el.greece_greek_quiz.ekatommirioukhos_millionaire",
+      "img": "imgs/millionaire_el_greece_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Milionario - Italiano 2020: Quiz",
+      "desc": "Gioco a quiz intellettuale in Italiano",
+      "uri": "it.italy_italian_quiz.milionario_millionaire",
+      "img": "imgs/millionaire_it_italy_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Milionerzy po Polsku 2020",
+      "desc": "Quiz intelektualny w języku Polskim",
+      "uri": "pl.poland_kwiz_polishquiz.milioner_millionaire",
+      "img": "imgs/millionaire_pl_poland_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
     },
     {
       "name": "Yeni Milyoner 2020 - Türkçe",
       "desc": "Milyoner Türkce bilgi yarışması",
       "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
       "img": "imgs/millionaire_tr_192_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Стани Милионер 2020: Българска Викторина",
+      "desc": "Интелектуална викторина на Български език",
+      "uri": "bg.bulgarian_quiz_viktorina.millioner_millionaire",
+      "img": "imgs/millionaire_bg_bulgaria_192.png",
+      "release_date": "01/08/2019",
+      "update_date": "01/08/2019"
+    },
+    {
+      "name": "Islamic Quiz Game 2020",
+      "desc": "Quiz game with Islamic questions.",
+      "uri": "en.millionaire.IslamMuslimQuestions.intellectualquizgame",
+      "img": "imgs/millionaire_en_islam_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     }

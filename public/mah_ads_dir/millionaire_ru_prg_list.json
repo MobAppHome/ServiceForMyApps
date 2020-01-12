@@ -1,108 +1,172 @@
 {
   "programs": [
-                {
-                  "name": "Новый Миллионер 2020 - на Pусском",
-                  "desc": "Интеллектуальная игра Миллионер.",
-                  "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
-                  "img": "imgs/millionaire_ru_192.png",
-                  "release_date": "01/04/2020",
-                  "update_date": "01/04/2020"
-                },
-                {
-                  "name": "Миллионер - Водитель 2020",
-                  "desc": "Игра Миллионер с вопросами из экзамен ПДД.",
-                  "uri": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
-                  "img": "imgs/millionaire_ru_driver_192.png",
-                  "release_date": "01/04/2020",
-                  "update_date": "01/04/2020"
-                },
-                {
-                  "name": "Миллионер - Библия",
-                  "desc": "Игра Миллионер с вопросами из Библии",
-                  "uri": "ru.russkiy.ViktorinaBibliyaKristianstvo.iqraintellektualnoymillioner",
-                  "img": "imgs/millionaire_ru_bible_192.png",
-                  "release_date": "01/04/2020",
-                  "update_date": "01/04/2020"
-                },
-                {
-                  "name": "Новий Мільйонер - Україна 2020",
-                  "desc": "Інтелектуальна гра Мільйонер українською мовою про Україну.",
-                  "uri": "uk.millionerom.UkrainskayaViktorina.ktokhochetstat",
-                  "img": "imgs/millionaire_uk_192.png",
-                  "release_date": "01/04/2020",
-                  "update_date": "01/04/2020"
-                },
-                {
-                  "name": "Мільйонер - Іспит ПДР Україна",
-                  "desc": "Гра Мільйонер із запитаннями з іспиту з ПДР Україна.",
-                  "uri": "uk.PddEkzamenUkrainskayaViktorina.millionerom",
-                  "img": "imgs/millionaire_uk_driver_192.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                },
-                {
-                  "name": "Миллионер - Ислам 2020",
-                  "desc": "Игра Миллионер с вопросами из ислама.",
-                  "uri": "ru.russkiy.ViktorinaIslamVoprosy.iqraintellektualnoymillioner",
-                  "img": "imgs/millionaire_ru_islam_192.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                },
-                {
-                  "name": "New Millionaire 2020 - GK Quiz",
-                  "desc": "Millionaire intellectual game in English.",
-                  "uri": "game.quiz.intellectual.iq.millionaire.english",
-                  "img": "imgs/millionaire_en_192.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                },
-                {
-                  "name": "Millions Quiz - en Français",
-                  "desc": "Jeu intellectuel Millionaire Quiz en français.",
-                  "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
-                  "img": "imgs/millionaire_fr_192_2.png",
-                  "release_date": "01/04/2020",
-                  "update_date": "01/04/2020"
-                },
-                {
-                  "name": "Neu Millionär 2020 - Deutsch",
-                  "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
-                  "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
-                  "img": "imgs/millionaire_de_192.png",
-                  "release_date": "01/04/2020",
-                  "update_date": "01/04/2020"
-                },
-                {
-                  "name": "Yeni Milyoner 2020 - Türkçe",
-                  "desc": "Milyoner Türkce bilgi yarışması",
-                  "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-                  "img": "imgs/millionaire_tr_192_3.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                },
-                {
-                  "name": "Миллионер - Узбекский 2020",
-                  "desc": "Викторина Миллионер на Узбекском языке.",
-                  "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
-                  "img": "imgs/millionaire_uz_192.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                },
-                {
-                  "name": "Миллионер - Казахский 2020",
-                  "desc": "Викторина Миллионер на Казахском языке.",
-                  "uri": "kk.qazaqsha_viktorina.millioner_millionaire",
-                  "img": "imgs/millionaire_kk_192.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                },
-                {
-                  "name": "Миллионер - Кыргызский 2020",
-                  "desc": "Викторина Миллионер на Кыргызском языке.",
-                  "uri": "kg.kyrgyzcha_intellektualdikoyun.millioner_millionaire",
-                  "img": "imgs/millionaire_kg_192.png",
-                  "release_date": "01/04/2019",
-                  "update_date": "01/04/2019"
-                }
-              ]
+    {
+      "name": "Новый Миллионер 2020 - на Pусском",
+      "desc": "Интеллектуальная игра Миллионер.",
+      "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
+      "img": "imgs/millionaire_ru_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Миллионер - Экзамен ПДД 2020",
+      "desc": "Игра Миллионер с вопросами из экзамен ПДД.",
+      "uri": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
+      "img": "imgs/millionaire_ru_driver_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Миллионер - Библия",
+      "desc": "Игра Миллионер с вопросами из Библии",
+      "uri": "ru.russkiy.ViktorinaBibliyaKristianstvo.iqraintellektualnoymillioner",
+      "img": "imgs/millionaire_ru_bible_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Украинский Миллионер 2020",
+      "desc": "Миллионер Викторина на Украинском языке",
+      "uri": "uk.millionerom.UkrainskayaViktorina.ktokhochetstat",
+      "img": "imgs/millionaire_uk_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Украинский Экзамен ПДД 2020",
+      "desc": "Игра Миллионер с вопросами из экзамен ПДД на Украинском языке",
+      "uri": "uk.PddEkzamenUkrainskayaViktorina.millionerom",
+      "img": "imgs/millionaire_uk_driver_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Английский Миллионер 2020",
+      "desc": "Миллионер Викторина на Английском языке",
+      "uri": "game.quiz.intellectual.iq.millionaire.english",
+      "img": "imgs/millionaire_en_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Французский Миллионер 2020",
+      "desc": "Миллионер Викторина на Французском языке",
+      "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
+      "img": "imgs/millionaire_fr_192_2.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Немецкий Миллионер 2020",
+      "desc": "Миллионер Викторина на Немецком языке",
+      "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
+      "img": "imgs/millionaire_de_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Турецкий Миллионер 2020",
+      "desc": "Миллионер Викторина на Турецком языке",
+      "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
+      "img": "imgs/millionaire_tr_192_3.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Миллионер - Ислам 2020",
+      "desc": "Игра Миллионер с вопросами из ислама.",
+      "uri": "ru.russkiy.ViktorinaIslamVoprosy.iqraintellektualnoymillioner",
+      "img": "imgs/millionaire_ru_islam_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Узбекский Миллионер 2020",
+      "desc": "Викторина Миллионер на Узбекском языке.",
+      "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
+      "img": "imgs/millionaire_uz_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Казахский Миллионер 2020",
+      "desc": "Викторина Миллионер на Казахском языке.",
+      "uri": "kk.qazaqsha_viktorina.millioner_millionaire",
+      "img": "imgs/millionaire_kk_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Кыргызский Миллионер 2020",
+      "desc": "Викторина Миллионер на Кыргызском языке.",
+      "uri": "kg.kyrgyzcha_intellektualdikoyun.millioner_millionaire",
+      "img": "imgs/millionaire_kg_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Туркменский Миллионер 2020",
+      "desc": "Миллионер Викторина на Туркменском языке",
+      "uri": "tk.turkmenistan_viktorina_synag.millioner_millionaire",
+      "img": "imgs/millionaire_tk_turkmenistan_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Испанский Миллионер 2020",
+      "desc": "Миллионер Викторина на Испанском языке",
+      "uri": "es.spanish_quiz_wordgame.millonario_millionaire",
+      "img": "imgs/millionaire_es_spain_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Португальский Миллионер 2020",
+      "desc": "Миллионер Викторина на Португальском языке",
+      "uri": "pt.portuguese_quiz_questionario.milionario_millionaire",
+      "img": "imgs/millionaire_pt_portugal_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Голландский Миллионер 2020",
+      "desc": "Миллионер Викторина на Голландском языке",
+      "uri": "nl.dutch_netherlands_quiz.miljonair_millionaire",
+      "img": "imgs/millionaire_nl_netherlands_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Венгерский Миллионер 2020",
+      "desc": "Миллионер Викторина на Венгерском языке",
+      "uri": "hu.hungariankviz_quiz.milliomos_millionaire",
+      "img": "imgs/millionaire_hu_hungary_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Греческий Миллионер 2020",
+      "desc": "Миллионер Викторина на Греческом языке",
+      "uri": "el.greece_greek_quiz.ekatommirioukhos_millionaire",
+      "img": "imgs/millionaire_el_greece_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    },
+    {
+      "name": "Итальянский Миллионер 2020",
+      "desc": "Миллионер Викторина на Итальянском языке",
+      "uri": "it.italy_italian_quiz.milionario_millionaire",
+      "img": "imgs/millionaire_it_italy_192.png",
+      "release_date": "01/04/2020",
+      "update_date": "01/04/2020"
+    },
+    {
+      "name": "Болгарский Миллионер 2020",
+      "desc": "Миллионер Викторина на Болгарском языке",
+      "uri": "bg.bulgarian_quiz_viktorina.millioner_millionaire",
+      "img": "imgs/millionaire_bg_bulgaria_192.png",
+      "release_date": "01/04/2019",
+      "update_date": "01/04/2019"
+    }
+  ]
 }
