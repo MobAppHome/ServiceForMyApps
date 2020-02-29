@@ -1,4 +1,16 @@
 {
+  "_comment": {
+    "programs": [
+      {
+        "name": "Казахский Миллионер 2020",
+        "desc": "Викторина Миллионер на Казахском языке.",
+        "uri": "kk.qazaqsha_viktorina.millioner_millionaire",
+        "img": "imgs/millionaire_kk_192.png",
+        "release_date": "01/04/2019",
+        "update_date": "01/04/2019"
+      }
+    ]
+  },
   "programs": [
     {
       "name": "Новый Миллионер 2020 - на Pусском",
@@ -85,14 +97,6 @@
       "desc": "Викторина Миллионер на Узбекском языке.",
       "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
       "img": "imgs/millionaire_uz_192.png",
-      "release_date": "01/04/2019",
-      "update_date": "01/04/2019"
-    },
-    {
-      "name": "Казахский Миллионер 2020",
-      "desc": "Викторина Миллионер на Казахском языке.",
-      "uri": "kk.qazaqsha_viktorina.millioner_millionaire",
-      "img": "imgs/millionaire_kk_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
