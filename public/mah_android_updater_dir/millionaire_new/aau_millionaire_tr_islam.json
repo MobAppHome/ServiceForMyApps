@@ -2,8 +2,8 @@
     "is_run_mode":"true",
     "name":"Millionaire TR Islam",
     "uri_current":"tr.milyoner.EntellektuelTurkceIslam.kimmilyonerbilgiyarismasi",
-    "version_code_current":"1",
+    "version_code_current":"3",
     "version_code_min":"1",
-    "update_info":"Güncellendi",
-    "update_date":"30/10/2019"
+    "update_info":"- Oyun arayüzü biraz değişti. \n- Hatalar giderildi. \n- Sorulardaki hatalar düzeltildi. \n- Yeni sorular eklendi.",
+    "update_date":"15/05/2020"
 }
