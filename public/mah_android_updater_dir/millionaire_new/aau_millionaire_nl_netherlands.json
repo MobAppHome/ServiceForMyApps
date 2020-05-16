@@ -2,8 +2,8 @@
     "is_run_mode":"true",
     "name":"Millionaire NL Netherlands",
     "uri_current":"nl.dutch_netherlands_quiz.miljonair_millionaire",
-    "version_code_current":"1",
+    "version_code_current":"3",
     "version_code_min":"1",
-    "update_info":"Bijgewerkt",
-    "update_date":"29/12/2019"
+    "update_info":"- De game-interface is een beetje veranderd. \n- Bugs zijn opgelost. \n- Fouten in vragen zijn verholpen. \n- Er zijn nieuwe vragen toegevoegd.",
+    "update_date":"16/05/2020"
 }

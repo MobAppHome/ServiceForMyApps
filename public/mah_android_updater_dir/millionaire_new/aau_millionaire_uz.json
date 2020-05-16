@@ -1,9 +1,9 @@
 {
-    "is_run_mode":"true",
-    "name":"Millionaire UZ",
-    "uri_current":"uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
-    "version_code_current":"1",
-    "version_code_min":"1",
-    "update_info":"Yangilandi",
-    "update_date":"27/11/2019"
+  "is_run_mode": "true",
+  "name": "Millionaire UZ",
+  "uri_current": "uz.uzbek_ozbekcha_savoljavoboyin.millioner_millionaire",
+  "version_code_current": "3",
+  "version_code_min": "1",
+  "update_info": "- O'yin interfeysi biroz o'zgargan. \n- Xatolar tuzatildi. \n- Savollarda xatolar tuzatildi. \n- Yangi savollar qo'shildi.",
+  "update_date": "16/05/2020"
 }

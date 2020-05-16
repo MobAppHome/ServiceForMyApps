@@ -1,9 +1,9 @@
 {
-    "is_run_mode":"true",
-    "name":"Millionaire KG",
-    "uri_current":"kg.kyrgyzcha_intellektualdikoyun.millioner_millionaire",
-    "version_code_current":"1",
-    "version_code_min":"1",
-    "update_info":"Tакташты",
-    "update_date":"06/12/2019"
+  "is_run_mode": "true",
+  "name": "Millionaire KG",
+  "uri_current": "kg.kyrgyzcha_intellektualdikoyun.millioner_millionaire",
+  "version_code_current": "3",
+  "version_code_min": "1",
+  "update_info": "- Оюн интерфейси бир аз өзгөрдү. \n- Мүчүлүштүктөр оңдолду. \n- Суроолордогу каталар оңдолду. \n- Жаңы суроолор кошулду.",
+  "update_date": "16/05/2020"
 }

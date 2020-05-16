@@ -1,9 +1,9 @@
 {
-    "is_run_mode":"true",
-    "name":"Millionaire AZ Driver",
-    "uri_current":"oyun.test.sualcavab.iq.milyoncu.azerbaycanca.suruculuk.imtahani",
-    "version_code_current":"1",
-    "version_code_min":"1",
-    "update_info":"Yeniləndi",
-    "update_date":"02/03/2019"
+  "is_run_mode": "true",
+  "name": "Millionaire AZ Driver",
+  "uri_current": "oyun.test.sualcavab.iq.milyoncu.azerbaycanca.suruculuk.imtahani",
+  "version_code_current": "9",
+  "version_code_min": "1",
+  "update_info": "- Sual şəkilləri boyüdüldü \n- İnterfeys səliqəyə salındı \n- Bəzi program xətaları aradan qaldırıldı \n- Suallarda olan yanlışlıqlar düzəldildi \n- Yeni suallar əlavə edildi",
+  "update_date": "16/05/2020"
 }

@@ -1,9 +1,9 @@
 {
-    "is_run_mode":"true",
-    "name":"Millionaire RU Driver",
-    "uri_current":"ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
-    "version_code_current":"1",
-    "version_code_min":"1",
-    "update_info":"Был обновлен",
-    "update_date":"30/10/2019"
+  "is_run_mode": "true",
+  "name": "Millionaire RU Driver",
+  "uri_current": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
+  "version_code_current": "3",
+  "version_code_min": "1",
+  "update_info": "- Интерфейс игры немного изменился. \n- Исправлены ошибки. \n- Ошибки в вопросах были исправлены. \n- Новые вопросы были добавлены.",
+  "update_date": "16/05/2020"
 }

@@ -1,9 +1,9 @@
 {
-    "is_run_mode":"true",
-    "name":"Millionaire TK Driver",
-    "uri_current":"tk.turkmenistan_viktorina_suruji.millioner_millionaire",
-    "version_code_current":"3",
-    "version_code_min":"1",
-    "update_info":"- Interfeýs Türkmen diline terjime edildi \n- Soraglaryň suratlary ulaldyldy. \n- Oýun interfeýsi birneme üýtgedi. \n- Işleýiş näsazlyklar düzedildi \n- Soraglardaky ýalňyşlyklar düzedildi. \n- Täze soraglar goşuldy",
-    "update_date":"14/05/2020"
+  "is_run_mode": "true",
+  "name": "Millionaire TK Driver",
+  "uri_current": "tk.turkmenistan_viktorina_suruji.millioner_millionaire",
+  "version_code_current": "3",
+  "version_code_min": "1",
+  "update_info": "- Interfeýs Türkmen diline terjime edildi \n- Soraglaryň suratlary ulaldyldy. \n- Oýun interfeýsi birneme üýtgedi. \n- Işleýiş näsazlyklar düzedildi \n- Soraglardaky ýalňyşlyklar düzedildi. \n- Täze soraglar goşuldy",
+  "update_date": "16/05/2020"
 }

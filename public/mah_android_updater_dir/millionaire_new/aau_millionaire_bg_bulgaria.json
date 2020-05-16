@@ -2,8 +2,8 @@
     "is_run_mode":"true",
     "name":"Millionaire BG Bulgaria",
     "uri_current":"bg.bulgarian_quiz_viktorina.millioner_millionaire",
-    "version_code_current":"1",
+    "version_code_current":"3",
     "version_code_min":"1",
-    "update_info":"Актуализиран",
-    "update_date":"29/12/2019"
+    "update_info":"- Интерфейсът на играта малко се промени. \n- Поправени са бъгове. \n- Грешки във въпросите са отстранени. \n- Добавени са нови въпроси.",
+    "update_date":"16/05/2020"
 }

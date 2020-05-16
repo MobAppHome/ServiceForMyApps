@@ -1,9 +1,9 @@
 {
-    "is_run_mode":"true",
-    "name":"Millionaire TR",
-    "uri_current":"oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
-    "version_code_current":"1",
-    "version_code_min":"1",
-    "update_info":"Güncellendi",
-    "update_date":"02/03/2019"
+  "is_run_mode": "true",
+  "name": "Millionaire TR",
+  "uri_current": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
+  "version_code_current": "37",
+  "version_code_min": "1",
+  "update_info": "- Oyun arayüzü biraz değişti. \n- Hatalar giderildi. \n- Sorulardaki hatalar düzeltildi. \n- Yeni sorular eklendi.",
+  "update_date": "16/05/2020"
 }
