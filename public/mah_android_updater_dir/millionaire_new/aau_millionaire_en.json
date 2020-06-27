@@ -3,7 +3,7 @@
   "name": "Millionaire EN",
   "uri_current": "game.quiz.intellectual.iq.millionaire.english",
   "version_code_current": "38",
-  "version_code_min": "1",
+  "version_code_min": "38",
   "update_info": "- The game interface has changed a bit. \n- Bugs were fixed. \n- Errors in questions have been fixed. \n- New questions have been added.",
   "update_date": "16/05/2020"
 }

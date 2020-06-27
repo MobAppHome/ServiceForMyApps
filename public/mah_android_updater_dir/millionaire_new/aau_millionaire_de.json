@@ -2,8 +2,8 @@
     "is_run_mode":"true",
     "name":"Millionaire DE",
     "uri_current":"spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
-    "version_code_current":"36",
-    "version_code_min":"1",
+    "version_code_current":"37",
+    "version_code_min":"37",
     "update_info":"- Die Spieloberfläche hat sich etwas geändert. \n- Fehler wurden behoben. \n- Fehler in Fragen wurden behoben. \n- Neue Fragen wurden hinzugefügt.",
     "update_date":"16/05/2020"
 }

@@ -3,7 +3,7 @@
     "name":"Millionaire PT Portugal",
     "uri_current":"pt.portuguese_quiz_questionario.milionario_millionaire",
     "version_code_current":"3",
-    "version_code_min":"1",
+    "version_code_min":"3",
     "update_info":"- Interfejs gry nieco się zmienił. \n- Naprawiono błędy. \n- Naprawiono błędy w pytaniach. \n- Dodano nowe pytania.",
     "update_date":"16/05/2020"
 }

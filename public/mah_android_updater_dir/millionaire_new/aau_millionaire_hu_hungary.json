@@ -2,8 +2,8 @@
     "is_run_mode":"true",
     "name":"Millionaire HU Hungary",
     "uri_current":"hu.hungariankviz_quiz.milliomos_millionaire",
-    "version_code_current":"3",
-    "version_code_min":"1",
+    "version_code_current":"4",
+    "version_code_min":"4",
     "update_info":"- A játék felülete kissé megváltozott. \n- A hibákat kijavítottuk. \n- Javítva vannak a kérdések hibái. \n- Új kérdéseket vettek fel.",
     "update_date":"16/05/2020"
 }

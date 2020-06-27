@@ -3,7 +3,7 @@
   "name": "Millionaire FR",
   "uri_current": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
   "version_code_current": "6",
-  "version_code_min": "1",
+  "version_code_min": "6",
   "update_info": "- L'interface du jeu a un peu changé. \n- Des bugs ont été corrigés. \n- Les erreurs dans les questions ont été corrigées. \n- De nouvelles questions ont été ajoutées.",
   "update_date": "16/05/2020"
 }
