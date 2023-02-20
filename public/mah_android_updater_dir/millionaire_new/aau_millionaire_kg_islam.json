@@ -1,7 +1,7 @@
 {
-    "is_run_mode":"true",
+    "is_run_mode":"false",
     "name":"Millionaire KG",
-    "uri_current":"kg.islam_intellektualdikoyun.kyrgyzcha_millioner",
+    "uri_current":"kg.islam_intellektualdikoyun.millioner",
     "version_code_current":"3",
     "version_code_min":"3",
     "update_info":"- Оюн интерфейси бир аз өзгөрдү. \n- Мүчүлүштүктөр оңдолду. \n- Суроолордогу каталар оңдолду. \n- Жаңы суроолор кошулду.",

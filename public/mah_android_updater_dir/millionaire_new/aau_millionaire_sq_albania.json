@@ -1,7 +1,7 @@
 {
-  "is_run_mode": "true",
+  "is_run_mode": "false",
   "name": "Millionaire SQ Albania",
-  "uri_current": "sq.albanian_quiz_shqip_lojekuizi.milioner_millionaire",
+  "uri_current": "sq.albanian_quiz_shqip_lojekuizi.milioner",
   "version_code_current": "3",
   "version_code_min": "3",
   "update_info": "- Ndërfaqja e lojës ka ndryshuar pak. \n- Gabimet ishin fikse. \n- Gabimet në pyetje janë fikse. \n- Janë shtuar pyetje të reja.",

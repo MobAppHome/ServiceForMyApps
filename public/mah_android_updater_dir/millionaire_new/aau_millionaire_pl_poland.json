@@ -1,7 +1,7 @@
 {
-    "is_run_mode":"true",
+    "is_run_mode":"false",
     "name":"Millionaire PL Poland",
-    "uri_current":"pl.poland_kwiz_polishquiz.milioner_millionaire",
+    "uri_current":"pl.poland_kwiz_polishquiz.milioner",
     "version_code_current":"3",
     "version_code_min":"3",
     "update_info":"- Interfejs gry nieco się zmienił. \n- Naprawiono błędy. \n- Naprawiono błędy w pytaniach. \n- Dodano nowe pytania.",

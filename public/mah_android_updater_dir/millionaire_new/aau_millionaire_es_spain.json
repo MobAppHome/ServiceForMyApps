@@ -1,7 +1,7 @@
 {
-    "is_run_mode":"true",
+    "is_run_mode":"false",
     "name":"Millionaire ES Spain",
-    "uri_current":"es.spanish_quiz_wordgame.millonario_millionaire",
+    "uri_current":"es.spanish_quiz_wordgame.millonario",
     "version_code_current":"3",
     "version_code_min":"3",
     "update_info":"- La interfaz del juego ha cambiado un poco. \n- Se corrigieron errores. \n- Se han solucionado los errores en las preguntas. \n- Se han agregado nuevas preguntas.",
