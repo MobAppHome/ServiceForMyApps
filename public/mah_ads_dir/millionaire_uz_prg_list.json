@@ -13,7 +13,7 @@
   },
   "programs": [
     {
-      "name": "Millioner - O'zbekcha",
+      "name": "Millioner O'zbekcha: Viktorina",
       "desc": "O'zbek tilida intellektual o'yin.",
       "uri": "uz.uzbek_ozbekcha_savoljavoboyin.millioner",
       "img": "imgs/millionaire_uz_192.png",
@@ -29,7 +29,7 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Millioner - Avto Imtihon",
+      "name": "Millioner Avto Imtihon",
       "desc": "Haydovchining Imtihoniga oid savollar bilan Millioner Viktorinasi.",
       "uri": "uz.AvtoImtihon_YHQ.uzbek_ozbekcha_millioner",
       "img": "imgs/millionaire_uz_driver_192.png",
@@ -37,7 +37,7 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Новый Миллионер - на Pусском",
+      "name": "Новый Миллионер: Bикторина",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
       "img": "imgs/millionaire_ru_192.png",
@@ -45,7 +45,7 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Миллионер - Водитель",
+      "name": "Миллионер Водитель ПДД",
       "desc": "Игра Миллионер с вопросами из экзамен ПДД.",
       "uri": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
       "img": "imgs/millionaire_ru_driver_192.png",
@@ -53,7 +53,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Миллионер - Ислам",
+      "name": "Ислам и Миллионер: Викторина",
       "desc": "Игра Миллионер с вопросами из ислама.",
       "uri": "ru.russkiy.ViktorinaIslamVoprosy.iqraintellektualnoymillioner",
       "img": "imgs/millionaire_ru_islam_192.png",
@@ -61,7 +61,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Yeni Milyoner - Türkçe",
+      "name": "Yeni Milyoner: Söz Oyunu",
       "desc": "Milyoner Türkce bilgi yarışması",
       "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
       "img": "imgs/millionaire_tr_192_3.png",
@@ -69,7 +69,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Миллионер - Кыргызский",
+      "name": "Миллионер Кыргызча",
       "desc": "Викторина Миллионер на Кыргызском языке.",
       "uri": "kg.kyrgyzcha_intellektualdikoyun.millioner_millionaire",
       "img": "imgs/millionaire_kg_192.png",
@@ -77,7 +77,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Миллионер - Туркменский",
+      "name": "Millioner - Türkmençe",
       "desc": "Миллионер Викторина на Туркменском языке",
       "uri": "tk.turkmenistan_viktorina_synag.millioner_millionaire",
       "img": "imgs/millionaire_tk_turkmenistan_192.png",
