@@ -1,7 +1,7 @@
 {
   "programs": [
     {
-      "name": "Новий Мільйонер - Україна 2020",
+      "name": "Новий Мільйонер - Україна",
       "desc": "Інтелектуальна гра Мільйонер українською мовою про Україну.",
       "uri": "uk.millionerom.UkrainskayaViktorina.ktokhochetstat",
       "img": "imgs/millionaire_uk_192.png",
@@ -9,15 +9,7 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Мільйонер - Іспит ПДР Україна",
-      "desc": "Гра Мільйонер із запитаннями з іспиту з ПДР Україна.",
-      "uri": "uk.PddEkzamenUkrainskayaViktorina.millionerom",
-      "img": "imgs/millionaire_uk_driver_192.png",
-      "release_date": "01/04/2020",
-      "update_date": "01/04/2020"
-    },
-    {
-      "name": "Новый Миллионер 2020 - на Pусском",
+      "name": "Новый Миллионер - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
       "img": "imgs/millionaire_ru_192.png",
@@ -25,7 +17,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Миллионер - Водитель 2020",
+      "name": "Миллионер - Водитель",
       "desc": "Игра Миллионер с вопросами из экзамен ПДД.",
       "uri": "ru.russkiy.ViktorinaVoditelskiePrava.iqraintellektualnoymillioner",
       "img": "imgs/millionaire_ru_driver_192.png",
@@ -41,7 +33,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "New Millionaire 2020 - GK Quiz",
+      "name": "New Millionaire - GK Quiz",
       "desc": "Millionaire intellectual game in English.",
       "uri": "game.quiz.intellectual.iq.millionaire.english",
       "img": "imgs/millionaire_en_192.png",
@@ -49,7 +41,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Millions Quiz - Français 2020",
+      "name": "Millions Quiz - Français",
       "desc": "Jeu intellectuel Millionaire Quiz en Français.",
       "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
       "img": "imgs/millionaire_fr_192.png",
@@ -57,7 +49,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Neu Millionär 2020 - Deutsch",
+      "name": "Neu Millionär - Deutsch",
       "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
       "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
       "img": "imgs/millionaire_de_192.png",

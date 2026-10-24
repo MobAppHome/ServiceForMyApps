@@ -1,7 +1,7 @@
 {
   "programs": [
     {
-      "name": "Yeni Milyoner 2020 - Türkçe",
+      "name": "Yeni Milyoner - Türkçe",
       "desc": "Milyoner Türkce bilgi yarışması",
       "uri": "oyun.bilgi.entellektuel.iq.millionaire.turkish.milyoner.turkce",
       "img": "imgs/millionaire_tr_192_3.png",
@@ -9,7 +9,7 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "Dini Milyoner 2020",
+      "name": "Dini Milyoner",
       "desc": "Türkçe İslami Bilgi Yarışması",
       "uri": "tr.milyoner.EntellektuelTurkceIslam.kimmilyonerbilgiyarismasi",
       "img": "imgs/millionaire_tr_islam_192.png",
@@ -17,7 +17,7 @@
       "update_date": "01/04/2020"
     },
     {
-      "name": "New Millionaire 2020 - GK Quiz",
+      "name": "New Millionaire - GK Quiz",
       "desc": "Millionaire intellectual game in English.",
       "uri": "game.quiz.intellectual.iq.millionaire.english",
       "img": "imgs/millionaire_en_192.png",
@@ -25,7 +25,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Neu Millionär 2020 - Deutsch",
+      "name": "Neu Millionär - Deutsch",
       "desc": "Intellektuelle, Quiz-Spiel in Deutsche",
       "uri": "spiel.quiz.intellektuell.iq.millionaire.german.millionar.deutsche",
       "img": "imgs/millionaire_de_192.png",
@@ -33,7 +33,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Millions Quiz - Français 2020",
+      "name": "Millions Quiz - Français",
       "desc": "Jeu intellectuel Millionaire Quiz en Français.",
       "uri": "fr.millions.QuiVeutEtre.JeudeQuizIntellectuel",
       "img": "imgs/millionaire_fr_192_2.png",
@@ -41,23 +41,23 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Millonario - Español 2020",
+      "name": "Millonario - Español",
       "desc": "Juego intelectual en Español. Juego de Palabras.",
-      "uri": "es.spanish_quiz_wordgame.millonario_millionaire",
+      "uri": "es.spanish_quiz_wordgame.millonario",
       "img": "imgs/millionaire_es_spain_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
     {
-      "name": "Milionário - Português 2020",
+      "name": "Milionário - Português",
       "desc": "Jogo intelectual em Português. Jogo de Perguntas",
-      "uri": "pt.portuguese_quiz_questionario.milionario_millionaire",
+      "uri": "pt.portuguese_quiz_questionario.milionario",
       "img": "imgs/millionaire_pt_portugal_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
     },
     {
-      "name": "Новый Миллионер 2020 - на Pусском",
+      "name": "Новый Миллионер - на Pусском",
       "desc": "Интеллектуальная игра Миллионер.",
       "uri": "iqra.viktorina.intellektualnoy.iq.millionaire.russian.millioner.russkiy",
       "img": "imgs/millionaire_ru_192.png",
@@ -65,7 +65,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Miljonairs Nederlands 2020: Quiz",
+      "name": "Miljonairs Nederlands: Quiz",
       "desc": "Intellectuele quizgame in het Nederlands",
       "uri": "nl.dutch_netherlands_quiz.miljonair_millionaire",
       "img": "imgs/millionaire_nl_netherlands_192.png",
@@ -73,7 +73,7 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Milionario - Italiano 2020: Quiz",
+      "name": "Milionario - Italiano: Quiz",
       "desc": "Gioco a quiz intellettuale in Italiano",
       "uri": "it.italy_italian_quiz.milionario_millionaire",
       "img": "imgs/millionaire_it_italy_192.png",
@@ -81,9 +81,9 @@
       "update_date": "01/04/2019"
     },
     {
-      "name": "Albanian Millionaire 2020: Quiz",
+      "name": "Albanian Millionaire: Quiz",
       "desc": "Intellectual quiz game in Albanian",
-      "uri": "sq.albanian_quiz_shqip_lojekuizi.milioner_millionaire",
+      "uri": "sq.albanian_quiz_shqip_lojekuizi.milioner",
       "img": "imgs/millionaire_sq_albania_192.png",
       "release_date": "01/04/2019",
       "update_date": "01/04/2019"
